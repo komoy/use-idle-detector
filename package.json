@@ -24,10 +24,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/khayes/use-idle-detector"
+    "url": "https://github.com/komoy/use-idle-detector"
   },
   "bugs": {
-    "url": "https://github.com/khayes/use-idle-detector/issues"
+    "url": "https://github.com/komoy/use-idle-detector/issues"
   },
   "homepage": "https://github.com/khayes/use-idle-detector#readme",
   "peerDependencies": {
