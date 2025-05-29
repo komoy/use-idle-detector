@@ -29,7 +29,7 @@
   "bugs": {
     "url": "https://github.com/komoy/use-idle-detector/issues"
   },
-  "homepage": "https://github.com/khayes/use-idle-detector#readme",
+  "homepage": "https://github.com/komoy/use-idle-detector#readme",
   "peerDependencies": {
     "react": ">=16.8.0"
   },
