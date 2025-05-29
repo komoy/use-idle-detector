@@ -1,6 +1,6 @@
 {
   "name": "use-idle-detector",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tiny React hook to detect user inactivity based on mouse, keyboard, scroll, and click events",
   "main": "dist/useIdle.js",
   "types": "dist/useIdle.d.ts",
